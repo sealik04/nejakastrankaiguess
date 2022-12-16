@@ -1,0 +1,31 @@
+.menu {
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Secular One', sans-serif;
+    background-color: #111;
+    color: rgb(239, 241, 243);
+}
+
+.menu li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    text-transform: none;
+}
+
+
+
+.head button {
+    border: none;
+    color: rgb(239, 241, 243);
+    background-color: purple;
+    border-radius: 10px;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-family: 'Archivo Black', sans-serif
+}
